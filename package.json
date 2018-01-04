@@ -1,0 +1,8 @@
+{
+  "name": "eslint-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Larry850806/eslint-example.git",
+  "author": "Larry Lu <pudding850806@gmail.com>",
+  "license": "MIT"
+}
