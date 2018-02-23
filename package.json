@@ -4,5 +4,12 @@
   "main": "index.js",
   "repository": "https://github.com/Larry850806/eslint-example.git",
   "author": "Larry Lu <pudding850806@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint src/*.js"
+  },
+  "devDependencies": {
+    "eslint": "^4.14.0",
+    "eslint-plugin-react": "^7.5.1"
+  }
 }
